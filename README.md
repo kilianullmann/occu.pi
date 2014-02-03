@@ -1,6 +1,6 @@
 occupyH1
 ========
 
-ideas/plans/intentions for a artistic experimental squatting
+ideas/plans/intentions for an artistic experimental squatting
 
 add anything!
