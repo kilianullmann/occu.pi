@@ -1,6 +1,6 @@
-occupyH1
+occu.pi
 ========
 
 ideas/plans/intentions for an artistic experimental squatting
 
-add anything!
+add everything to occupy anything!
