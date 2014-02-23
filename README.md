@@ -1,6 +1,6 @@
 occu.pi
 ========
 
-ideas/plans/intentions for an artistic experimental squatting
+ideas/plans/intentions for an artistic approach to occupation/squatting techniques.
 
-add everything to occupy anything!
+add anything to occupy everything!
