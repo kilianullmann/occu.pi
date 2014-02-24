@@ -7,6 +7,12 @@ add anything to occupy everything!
 
 ----------------------
 
+CONCEPT:
+
+the construction of a handy device to remote and/or autonomously perform media performances in almost any place.
+
+----------------------
+
 HARDWARE:
 
 what we have:
@@ -23,6 +29,7 @@ what we need:
 - Speakers
 - LEDs
 - Relais
+- Transformer
 - Cables & Chords
 - an open W-Lan on location
 
